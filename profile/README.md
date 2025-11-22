@@ -4,9 +4,7 @@ Welcome to **Linus Kang Software**, where I design and build open source apps fo
 
 ### Featured projects
 
-- [**Bubbly**](https://github.com/linuskangsoftware/bubbly)
-- [**Dayscope**](https://github.com/dayscope/dayscope)
-- [**My CV**](https://github.com/linuskang/cv)
+- [**Bubbly Maps**](https://github.com/bubblymaps/maps)
 
 ### Our Team
 
@@ -14,4 +12,4 @@ Welcome to **Linus Kang Software**, where I design and build open source apps fo
 
 That's all for now. You can find our organisation website [here](https://software.linuskang.au)
 
-For any business enquiries, please contact us at [business@linus.id.au](mailto://business@linus.id.au)
+For any business enquiries, please contact us at [business@linus.id.au](mailto://mail@linus.id.au)
